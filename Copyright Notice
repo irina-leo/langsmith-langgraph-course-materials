@@ -1,0 +1,31 @@
+Copyright (c) 2026 Irina Leonova. All rights reserved.
+This repository and all materials contained in it are the intellectual property of the author unless otherwise stated.
+Author
+Author: Irina Leonova  
+GitHub: irina-leo
+Protected materials
+The following materials are protected by copyright:
+project concept and architecture;
+system descriptions and documentation;
+workflow structure and module logic;
+prompt engineering materials;
+JSON artifact design and schema descriptions;
+diagrams, explanations, and project text;
+any future source code, notebooks, examples, or related materials added to this repository.
+Usage restrictions
+This repository is made publicly visible for portfolio and demonstration purposes only.
+You may view the materials in this repository.
+You may not, without prior written permission from the author:
+copy or redistribute the materials;
+modify or create derivative works;
+use the materials in commercial or internal products;
+use the architecture, prompts, schemas, or workflows as a basis for another project;
+remove or alter copyright notices;
+claim authorship or co-authorship of this project;
+train, fine-tune, or evaluate AI systems using these materials as a dataset without written permission.
+Permission
+For permission requests, contact the author through the GitHub profile associated with this repository.
+If permission is granted, it must be provided in writing.
+No license granted
+No open-source license is granted for this repository.
+The absence of an open-source license means that all rights are reserved by default.
